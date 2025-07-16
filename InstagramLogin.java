@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+class InstagramLogin 
+{
+	public static void main(String[] args) 
+	{
+		long phno = 9975473247L;
+		int passward = 1234;
+
+		Scanner s = new Scanner (system.in);
+
+		System.out.println("Enter the MobileNumber");
+
+		long mobno = s.nextLong();
+
+		if(phno ==mobno)
+		{
+			if(password ==pass) {
+
+	
+
+
+	}
+}
